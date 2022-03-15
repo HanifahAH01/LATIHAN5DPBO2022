@@ -10,7 +10,7 @@ Saya Hanifah Al Humaira mengerjakan tugas LATIHAN5DPBO2022 dalam mata kuliah Des
 # Add
 ![Add ](https://user-images.githubusercontent.com/94789593/158401774-e971dacf-b8ce-4089-8b2f-bf64ad8d806f.png)
 
-#Update
+# Update
 ![Update](https://user-images.githubusercontent.com/94789593/158401809-1dfb1019-b26c-477c-8460-1e3014788e40.png)
 
 # Delete
