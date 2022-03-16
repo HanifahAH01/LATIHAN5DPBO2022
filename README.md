@@ -4,7 +4,7 @@
 
 # Screenshots
 
-insert ## Awal
+# Awal
 ![1](https://user-images.githubusercontent.com/94789593/158401732-19465ab2-da66-4bd0-9009-8bf9cf596e6b.png)
 
 # Add
