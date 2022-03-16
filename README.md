@@ -2,7 +2,7 @@
 
 >Saya Hanifah Al Humaira mengerjakan tugas LATIHAN5DPBO2022 dalam mata kuliah Desain dan Pemrograman Berbasis Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
-# Screenshots
+# Screenshots hasil eksekusi
 
 - ## Awal
 ![1](https://user-images.githubusercontent.com/94789593/158401732-19465ab2-da66-4bd0-9009-8bf9cf596e6b.png)
