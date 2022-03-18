@@ -7,7 +7,7 @@ package daftarmahasiswa;
 
 /**
  *
- * @author Hilman Fauzi Herdiana - 2000879
+ * @author Hanifah Al Humaira
  */
 public class Mahasiswa {
     private String nim;
